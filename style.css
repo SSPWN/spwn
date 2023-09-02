@@ -19,31 +19,31 @@
   
   
   .text-copy:nth-child(1){
-    stroke: #ffffff;
+    stroke: #ffd369;
     animation-delay: -1;
   }
   
   
   .text-copy:nth-child(2){
-    stroke: #ffffff;
+    stroke: #ffd369;
     animation-delay: -2s;
   }
   
   
   .text-copy:nth-child(3){
-    stroke: #ffffff;
+    stroke: #ffd369;
     animation-delay: -3s;
   }
   
   
   .text-copy:nth-child(4){
-    stroke: #ffffff;
+    stroke: #ffd369;
     animation-delay: -4s;
   }
   
   
   .text-copy:nth-child(5){
-    stroke: #ffffff;
+    stroke: #ffd369;
     animation-delay: -5s;
   }
   
@@ -52,7 +52,3 @@
     100% {stroke-dashoffset: -35%;}
   }
   
-  p,h1,h4,h5{
-    color: #ffd369;
-  }
-
